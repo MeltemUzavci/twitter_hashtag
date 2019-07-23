@@ -1,2 +1,2 @@
-# twitter_hashtag
-#kısaveözbirnot hashtagi ile paylaşılan tweetlerin analizi
+# twitter_hashtag_analizi
+#kısaveözbirnot hashtagi ile paylaşılan tweetlerin basitçe analizi
